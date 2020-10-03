@@ -1,0 +1,14 @@
+{
+    "name": "administrador/lauriano",
+    "description": "Projeto que lê planilhas do excel e insere no banco MySQL",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Thiago Petherson",
+            "email": "thiagopetherson@outlook.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14"
+    }
+}
