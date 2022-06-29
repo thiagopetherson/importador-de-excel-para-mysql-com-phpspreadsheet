@@ -8,6 +8,8 @@ A planilha no formato .xls e a tabela do banco de dados também seguem aqui no r
 
 Altere o arquivo de conexão com o banco para as suas credenciais (se necessário).
 
+Rode o comando "composer install" no diretório raiz do projeto, para baixar e instalar a biblioteca no projeto. (Você deve ter o composer instalado no seu computador).
+
 Link da lib: https://github.com/PHPOffice/PhpSpreadsheet
 
 Qualquer dúvida é só entrar em contato:
